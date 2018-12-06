@@ -6,7 +6,9 @@ The aim of this project is to predict the count of bike rentals based on the sea
 
 # DATA
 instant   : Record index
+
 dteday    : Date
+
 season    : Season (1:springer, 2:summer, 3:fall, 4:winter)
 yr        : Year (0: 2011, 1:2012)
 mnth      : Month (1 to 12)
